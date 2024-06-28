@@ -25,5 +25,5 @@ PostgreSQL.
 
 ## Parte cuatro :
 
-- Utilizando Power BI , se visualizo los datos y se realizo las capturas correspondientes documentadas en el archivo 'docu.pdf'
+- Utilizando Power BI , se visualizo los datos y se realizo las capturas correspondientes documentadas en el archivo 'docu.pdf' y expuestas en el archivo 'prueba_tecnica.pbix'
   
